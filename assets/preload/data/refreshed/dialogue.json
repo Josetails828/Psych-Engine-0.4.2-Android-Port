@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, hi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi....? Who are you supposed to be?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you see?\\nYou are in my father's backyard."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I didn't know that Dave had a son."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That is the least thing to worry about."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The biggest problem now is...where is Dave?"
+		},
+		{
+			"speed": 0.075,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhhh....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I think he is stuck in the 3D world."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, sorry about that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The only way to take him back is to enter the 3D by rap battling and take him out from there."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh! Well let's do a battle!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But uhh, how many songs do we have to sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well normally, we have to do 2 to enter the 3D world."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tristan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok! Well, let's go!"
+		}
+	]
+}
