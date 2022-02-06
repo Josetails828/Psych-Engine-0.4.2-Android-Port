@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DisBambi.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Disruption Bambi Down0000" x="5" y="5" width="577" height="621" frameX="0" frameY="-46" frameWidth="581" frameHeight="668"/>
+	<SubTexture name="Disruption Bambi Idle0000" x="592" y="5" width="541" height="646" frameX="0" frameY="-24" frameWidth="591" frameHeight="667"/>
+	<SubTexture name="Disruption Bambi Left0000" x="5" y="661" width="676" height="650" frameX="0" frameY="0" frameWidth="696" frameHeight="655"/>
+	<SubTexture name="Disruption Bambi Right0000" x="691" y="661" width="551" height="657" frameX="-18" frameY="0" frameWidth="589" frameHeight="659"/>
+	<SubTexture name="Disruption Bambi Up0000" x="1143" y="5" width="530" height="646" frameX="0" frameY="0" frameWidth="552" frameHeight="703"/>
+</TextureAtlas>
