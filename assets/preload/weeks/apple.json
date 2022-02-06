@@ -1,0 +1,30 @@
+{
+	"storyName": "Three Bambi in 3D",
+	"hideFreeplay": false,
+	"weekBackground": "apple",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"applecore",
+			"biba&boba",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

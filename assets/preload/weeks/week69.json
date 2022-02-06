@@ -1,0 +1,30 @@
+{
+	"storyName": "triple phonebreakers",
+	"hideFreeplay": false,
+	"weekBackground": "tripletrouble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Triple Trouble",
+			"bandu",
+			[
+				0,
+				40,
+				0
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

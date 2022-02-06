@@ -1,0 +1,49 @@
+{
+	"storyName": "Yuri/Monika",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "yurimoni",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Deep-Breaths",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Obsession",
+			"yuri",
+			[
+				158,
+				114,
+				210
+			]
+		],
+		[
+			"Reconciliation",
+			"monika-real",
+			[
+				140,
+				212,
+				101
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Yuri/Monika"
+}
