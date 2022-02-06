@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sandu.png"><SubTexture name="sad down0000" x="0" y="0" width="378" height="540" frameX="0" frameY="0" frameWidth="378" frameHeight="540" />
+<SubTexture name="sad down0001" x="378" y="0" width="378" height="540" frameX="0" frameY="0" frameWidth="378" frameHeight="540" />
+<SubTexture name="sad idle0000" x="756" y="0" width="336" height="566" frameX="0" frameY="0" frameWidth="336" frameHeight="566" />
+<SubTexture name="sad left0000" x="0" y="566" width="388" height="574" frameX="0" frameY="0" frameWidth="388" frameHeight="574" />
+<SubTexture name="sad left0001" x="388" y="566" width="388" height="574" frameX="0" frameY="0" frameWidth="388" frameHeight="574" />
+<SubTexture name="sad right0000" x="776" y="566" width="378" height="540" frameX="0" frameY="0" frameWidth="378" frameHeight="540" />
+<SubTexture name="sad right0001" x="0" y="1140" width="378" height="540" frameX="0" frameY="0" frameWidth="378" frameHeight="540" />
+<SubTexture name="sad up0000" x="378" y="1140" width="438" height="663" frameX="0" frameY="0" frameWidth="438" frameHeight="663" />
+<SubTexture name="sad up0001" x="816" y="1140" width="438" height="663" frameX="0" frameY="0" frameWidth="438" frameHeight="663" />
+</TextureAtlas>

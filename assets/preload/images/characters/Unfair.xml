@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Unfair.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Expunged Down0000" x="5" y="5" width="935" height="771"/>
+	<SubTexture name="Expunged Idle0000" x="5" y="974" width="806" height="957"/>
+	<SubTexture name="Expunged Left0000" x="821" y="974" width="1063" height="921"/>
+	<SubTexture name="Expunged Right0000" x="1894" y="5" width="905" height="1089"/>
+	<SubTexture name="Expunged Up0000" x="1894" y="1104" width="880" height="949"/>
+	<SubTexture name="expungedlipsync0000" x="950" y="5" width="850" height="959"/>
+</TextureAtlas>
