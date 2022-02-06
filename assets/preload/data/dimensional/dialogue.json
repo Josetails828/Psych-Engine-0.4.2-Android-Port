@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.085,
+			"portrait": "dave3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh......no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave3",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT HAVE YOU DONE?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Well, i don't know man. You just didn't want to let us go so you decided to rap battle me again."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave3",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT YOUR MOUTH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Shut up! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok. Maybe we can work this out. Let's do another battle and see if i can get back to normal."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you sure?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "dave3",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SURE I AM!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's end this off with a blast!"
+		}
+	]
+}
