@@ -1,35 +1,31 @@
 {
 	"songs": [
 		[
-			"trance",
-			"aflac",
+			"applecore",
+			"biba&boba",
 			[
-				65,
-				156,
-				62
-			]
-		],
-		[
-			"copy cat",
-			"copycat",
-			[
-				97,
-				145,
-				255
+				0,
+				0,
+				0
 			]
 		]
-		
 	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
 	"weekCharacters": [
-		"dad",
+		"aflac",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-	"storyName": "Bonus Songs",
-	"weekBefore": "rematch",
-	"weekName": "bonus",
-	"startUnlocked": false,
-	"hideStoryMode": true,
-	"hideFreeplay": false
+	"storyName": "Three Bambi in 3D",
+	"weekName": "custom week",
+	"freeplayColor": [
+		66,
+		135,
+		245
+	],
+	"hideStoryMode": false,
+	"weekBefore": "apple",
+	"startUnlocked": true
 }

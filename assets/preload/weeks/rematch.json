@@ -19,16 +19,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"encore",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"rematchaflac",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "encore",
 	"storyName": "Rematch",
-	"weekBefore": "aflac",
-	"weekName": "rematch",
-	"startUnlocked": true,
+	"weekName": "Rematch",
+	"freeplayColor": [
+		166,
+		17,
+		17,
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

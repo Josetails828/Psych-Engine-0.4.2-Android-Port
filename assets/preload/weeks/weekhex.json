@@ -1,7 +1,7 @@
-"songs": [
+	"songs": [
 		[
-			"Snake-Eyes",
-			"cup",
+			"copy-cat",
+			"mcbo",
 			[
 				216,
 				215,
@@ -9,8 +9,8 @@
 			]
 		],
 		[
-			"Sansational",
-			"sans",
+			"jump-out",
+			"bo-ex",
 			[
 				255,
 				255,
@@ -18,8 +18,8 @@
 			]
 		],
 		[
-			"Last-Reel",
-			"bendy",
+			"ronald-mcdonald-slide",
+			"ron-ex",
 			[
 				255,
 				216,
@@ -28,21 +28,21 @@
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground":"stage",
+	"weekBackground":"bobex",
 	"difficulties": "Hard",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Indie Cross",
-	"weekName": "Indie Cross",
+	"storyName": "meme",
+	"weekName": "o",
 	"freeplayColor": [
-		166,
-		17,
-		17,
+		255,
+		216
+		0,
 	],
 	"hideStoryMode": false,
-	"weekBefore": "dave",
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

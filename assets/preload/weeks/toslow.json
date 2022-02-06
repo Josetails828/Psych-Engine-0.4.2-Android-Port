@@ -1,29 +1,28 @@
-{
 	"songs": [
 		[
-			"applecore",
-			"biba&boba",
+			"Too Slow",
+			"sonicsg",
 			[
-				0,
-				0,
-				0
+				160,
+				209,
+				255
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "Hard",
+	"weekBackground":"ghz",
+	"difficulties": "",
 	"weekCharacters": [
-		"aflac",
+		"sonic",
 		"bf",
 		"gf"
 	],
-	"storyName": "Three Bambi in 3D",
-	"weekName": "custom week",
+	"storyName": "To Slow",
+	"weekName": "To Slow",
 	"freeplayColor": [
-		66,
-		135,
-		245
+		160,
+		209,
+		255,
 	],
 	"hideStoryMode": false,
 	"weekBefore": "tutorial",

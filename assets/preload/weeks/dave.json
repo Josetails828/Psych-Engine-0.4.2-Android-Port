@@ -28,16 +28,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"stage",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"dave",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
 	"storyName": "ohhhh ma gawwwd",
-	"weekBefore": "rematch",
 	"weekName": "dave",
-	"startUnlocked": false,
+	"freeplayColor": [
+		166,
+		17,
+		17,
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "apple",
+	"startUnlocked": true
 }

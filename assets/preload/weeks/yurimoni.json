@@ -1,17 +1,4 @@
-{
-	"storyName": "Yuri/Monika",
-	"difficulties": "",
-	"hideFreeplay": false,
-	"weekBackground": "yurimoni",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
-	"songs": [
+		"songs": [
 		[
 			"Deep-Breaths",
 			"yuri",
@@ -40,10 +27,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"yurimoni",
+	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekName": "Yuri/Monika"
+	"storyName": "Yuri/Monika",
+	"weekName": "Yuri/Monika",
+	"freeplayColor": [
+		140,
+		212,
+		101,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

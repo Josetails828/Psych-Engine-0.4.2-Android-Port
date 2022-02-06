@@ -1,18 +1,3 @@
-{
-	"storyName": "The Whole Ass Mod",
-	"hideFreeplay": false,
-	"weekBackground": "exe",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"weekCharacters": [
-		"exe",
-		"bf",
-		"gf"
 	],
 	"songs": [
 		[
@@ -115,6 +100,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"exe",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"exe",
+		"bf",
+		"gf"
+	],
+	"storyName": "The Whole Ass Mod",
+	"weekName": "Week EXE",
+	"freeplayColor": [
+		166,
+		17,
+		17,
+	],
 	"hideStoryMode": false,
-	"weekName": "Week EXE"
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
