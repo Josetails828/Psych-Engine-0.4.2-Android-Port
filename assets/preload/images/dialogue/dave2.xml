@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dave2.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bftalkloop0000" x="0" y="0" width="579" height="668"/>
+	<SubTexture name="bftalkloop0001" x="0" y="0" width="579" height="668"/>
+	<SubTexture name="bftalkloop0002" x="579" y="0" width="579" height="658" frameX="0" frameY="-10" frameWidth="579" frameHeight="668"/>
+	<SubTexture name="bftalkloop0003" x="579" y="0" width="579" height="658" frameX="0" frameY="-10" frameWidth="579" frameHeight="668"/>
+	<SubTexture name="bftalkloop0004" x="1158" y="0" width="579" height="655" frameX="0" frameY="-13" frameWidth="579" frameHeight="668"/>
+	<SubTexture name="bftalkloop0005" x="1158" y="0" width="579" height="655" frameX="0" frameY="-13" frameWidth="579" frameHeight="668"/>
+</TextureAtlas>
