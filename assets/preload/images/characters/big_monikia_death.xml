@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="big_monikia_death.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Big Monika Retry End0000" x="0" y="0" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0001" x="2941" y="0" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0002" x="30" y="1072" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0003" x="1191" y="1079" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0004" x="1785" y="19" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0005" x="0" y="2508" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0006" x="1152" y="2514" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry End0007" x="2300" y="2513" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry Loop0000" x="0" y="0" width="1142" height="982"/>
+	<SubTexture name="Big Monika Retry Start0000" x="0" y="0" width="1142" height="982"/>
+	<SubTexture name="Big Monika SCARY0000" x="2324" y="1088" width="1695" height="1401"/>
+</TextureAtlas>

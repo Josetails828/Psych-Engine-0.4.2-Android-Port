@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cheating.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CheatingBamIDown0000" x="5" y="5" width="370" height="618" frameX="0" frameY="-18" frameWidth="371" frameHeight="637"/>
+	<SubTexture name="CheatingBamIdle0000" x="385" y="5" width="379" height="618" frameX="-43" frameY="-33" frameWidth="421" frameHeight="652"/>
+	<SubTexture name="CheatingBamLeft0000" x="774" y="5" width="478" height="617" frameX="0" frameY="-14" frameWidth="477" frameHeight="631"/>
+	<SubTexture name="CheatingBamRight0000" x="774" y="632" width="576" height="631" frameX="0" frameY="-11" frameWidth="602" frameHeight="634"/>
+	<SubTexture name="CheatingBamUp0000" x="1360" y="5" width="500" height="709" frameX="0" frameY="0" frameWidth="500" frameHeight="718"/>
+</TextureAtlas>

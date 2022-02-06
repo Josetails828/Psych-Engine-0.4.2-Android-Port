@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi_angryboy.png"><SubTexture name="DOWN0000" x="0" y="0" width="545" height="715" frameX="0" frameY="0" frameWidth="545" frameHeight="715" />
+<SubTexture name="DOWN0001" x="545" y="0" width="539" height="714" frameX="0" frameY="0" frameWidth="539" frameHeight="714" />
+<SubTexture name="idle0000" x="1084" y="0" width="518" height="735" frameX="0" frameY="0" frameWidth="518" frameHeight="735" />
+<SubTexture name="idle0001" x="0" y="735" width="514" height="723" frameX="0" frameY="0" frameWidth="514" frameHeight="723" />
+<SubTexture name="idle0002" x="514" y="735" width="523" height="710" frameX="0" frameY="0" frameWidth="523" frameHeight="710" />
+<SubTexture name="LEFT0000" x="1037" y="735" width="548" height="757" frameX="0" frameY="0" frameWidth="548" frameHeight="757" />
+<SubTexture name="LEFT0001" x="0" y="1492" width="576" height="760" frameX="0" frameY="0" frameWidth="576" frameHeight="760" />
+<SubTexture name="RIGHT0000" x="576" y="1492" width="546" height="744" frameX="0" frameY="0" frameWidth="546" frameHeight="744" />
+<SubTexture name="RIGHT0001" x="1122" y="1492" width="571" height="741" frameX="0" frameY="0" frameWidth="571" frameHeight="741" />
+<SubTexture name="UP0000" x="0" y="2252" width="586" height="741" frameX="0" frameY="0" frameWidth="586" frameHeight="741" />
+<SubTexture name="UP0001" x="586" y="2252" width="584" height="744" frameX="0" frameY="0" frameWidth="584" frameHeight="744" />
+</TextureAtlas>

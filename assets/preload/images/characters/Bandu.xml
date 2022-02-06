@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bandu.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BanduIDown0000" x="5" y="5" width="567" height="474" frameX="0" frameY="-19" frameWidth="594" frameHeight="484"/>
+	<SubTexture name="BanduIdle0000" x="582" y="5" width="497" height="639" frameX="-3" frameY="-1" frameWidth="516" frameHeight="668"/>
+	<SubTexture name="BanduLeft0000" x="5" y="654" width="506" height="613" frameX="0" frameY="-12" frameWidth="515" frameHeight="644"/>
+	<SubTexture name="BanduRight0000" x="521" y="654" width="540" height="615" frameX="-52" frameY="-12" frameWidth="593" frameHeight="623"/>
+	<SubTexture name="BanduUp0000" x="1089" y="5" width="529" height="743" frameX="-3" frameY="-2" frameWidth="528" frameHeight="743"/>
+</TextureAtlas>
