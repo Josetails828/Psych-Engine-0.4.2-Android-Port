@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "FrontDaveIdle"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FrontDaveDown"
+		},
+		{
+			"offsets": [
+				-22,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FrontDaveUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FrontDaveRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FrontDaveLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/front",
+	"position": [
+		-250,
+		410
+	],
+	"healthicon": "davenor",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		180
+	],
+	"camera_position": [
+		-10,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "Fleetway Scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "shut-up",
+			"fps": 24,
+			"name": "Fleetway Shut Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "growl",
+			"fps": 24,
+			"name": "Fleetway Growl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fleetway Growl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				-31
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Fleetway Right Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				40
+			],
+			"anim": "show-you",
+			"fps": 24,
+			"name": "Fleetway Show You",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleetway2",
+	"position": [
+		30,
+		40
+	],
+	"healthicon": "fleetway",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		202,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

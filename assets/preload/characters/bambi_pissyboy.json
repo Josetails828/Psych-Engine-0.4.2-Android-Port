@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				591,
+				160
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				660,
+				190
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				755,
+				200
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				750,
+				167
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				610,
+				150
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi_pissyboy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sadness",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		215,
+		0
+	],
+	"camera_position": [
+		-220,
+		-580
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

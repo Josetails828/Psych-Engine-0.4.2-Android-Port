@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-178,
+				293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "gf dance"
+		},
+		{
+			"offsets": [
+				-187,
+				281
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sad",
+			"loop": true,
+			"name": "gf miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/exe_gf_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
