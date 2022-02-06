@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				-40
+			],
+			"indices": [],
+			"fps": 8,
+			"anim": "idle",
+			"loop": false,
+			"name": "sad idle"
+		},
+		{
+			"offsets": [
+				-69,
+				-60
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sad left"
+		},
+		{
+			"offsets": [
+				-130,
+				-120
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sad down"
+		},
+		{
+			"offsets": [
+				-96,
+				50
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sad up"
+		},
+		{
+			"offsets": [
+				-180,
+				-63
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sad right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sandu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sadness",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		195,
+		0
+	],
+	"camera_position": [
+		-80,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

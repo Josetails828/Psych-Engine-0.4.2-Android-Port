@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-480,
+				-120
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-279,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-360,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-326,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-390,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-240,
+				-180
+			],
+			"anim": "hey",
+			"fps": 10,
+			"name": "BambiHentaiXXX",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/UBFF",
+	"position": [
+		-30,
+		-210
+	],
+	"healthicon": "gundon",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 2.2
+}
