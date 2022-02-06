@@ -28,16 +28,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"aflac",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "overworld",
-	"storyName": "Block Game Brawl",
-	"weekBefore": "tutorial",
+	"storyName": "aflac",
 	"weekName": "aflac",
-	"startUnlocked": true,
+	"freeplayColor": [
+		66,
+		135,
+		245
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
