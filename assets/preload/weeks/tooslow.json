@@ -1,7 +1,3 @@
-{
-	"storyName": "ORIGINAL SONG BY MARSTARBRO, COVER BY SOUFON",
-	"startUnlocked": true,
-	"hideStoryMode": false,
 	"songs": [
 		[
 			"Too Slow",
@@ -13,12 +9,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"ghz",
+	"difficulties": "",
 	"weekCharacters": [
 		"sonic",
 		"bf",
 		"gf"
 	],
-	"hideFreeplay": false,
-	"weekBackground": "ghz",
-	"weekName": "Too Slow"
+	"storyName": "To Slow",
+	"weekName": "To Slow",
+	"freeplayColor": [
+		160,
+		209,
+		255,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
