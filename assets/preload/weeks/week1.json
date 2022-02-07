@@ -1,22 +1,120 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+	"storyName": "The Whole Ass Mod",
+	"hideFreeplay": false,
+	"weekBackground": "exe",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
+	"startUnlocked": true,
 	"weekCharacters": [
-		"dad",
+		"exe",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Too Slow",
+			"sonic",
+			[
+				0,
+				100,
+				213
+			]
+		],
+		[
+			"You Can't Run",
+			"sonic.exe",
+			[
+				0,
+				0,
+				93
+			]
+		],
+		[
+			"Triple Trouble",
+			"tailsexe",
+			[
+				20,
+				20,
+				33
+			]
+		],
+		[
+			"Endless",
+			"sonicfun",
+			[
+				0,
+				0,
+				233
+			]
+		],
+		[
+			"Cycles",
+			"lordx",
+			[
+				80,
+				100,
+				133
+			]
+		],
+		[
+			"Milk",
+			"sunky",
+			[
+				0,
+				100,
+				233
+			]
+		],
+		[
+			"Sunshine",
+			"tailsdoll",
+			[
+				255,
+				133,
+				0
+			]
+		],
+		[
+			"Faker",
+			"moviesonic",
+			[
+				0,
+				0,
+				113
+			]
+		],
+		[
+			"Black Sun",
+			"oldmoviesonic",
+			[
+				60,
+				0,
+				20
+			]
+		],
+		[
+			"Too Fest",
+			"sanic",
+			[
+				0,
+				0,
+				140
+			]
+		],
+		[
+			"Chaos",
+			"fleetway",
+			[
+				255,
+				195,
+				0
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Week EXE"
 }

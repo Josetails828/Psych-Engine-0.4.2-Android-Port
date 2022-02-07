@@ -1,22 +1,58 @@
 {
-	"songs": [
-		["Satin Panties", "mom", [252, 150, 215]],
-		["High", "mom", [252, 150, 215]],
-		["Milf", "mom", [252, 150, 215]]
+	"storyName": "In the background",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "itb",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-	
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
-		"mom",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "limo",
-
-	"storyName": "MOMMY MUST MURDER",
-	"weekBefore": "week3",
-	"weekName": "Week 4",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"groovy-brass",
+			"bluskys-ex",
+			[
+				25,
+				85,
+				197
+			]
+		],
+		[
+			"conscience",
+			"minishoey-ex",
+			[
+				5,
+				199,
+				147
+			]
+		],
+		[
+			"yap-squad",
+			"jghost-ex",
+			[
+				167,
+				45,
+				42
+			]
+		],
+		[
+			"intertwined",
+			"ashncerb-ex",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "In the background"
 }

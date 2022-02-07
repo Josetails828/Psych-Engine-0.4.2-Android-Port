@@ -1,8 +1,8 @@
 {
-	"storyName": "meme",
+	"storyName": "Yuri/Monika",
 	"difficulties": "",
 	"hideFreeplay": false,
-	"weekBackground": "bobex",
+	"weekBackground": "yurimoni",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -13,30 +13,30 @@
 	"hideStoryMode": false,
 	"songs": [
 		[
-			"copy-cat",
-			"mcbo",
+			"Deep-Breaths",
+			"yuri",
 			[
-				216,
-				215,
-				225
+				158,
+				114,
+				210
 			]
 		],
 		[
-			"jump-out",
-			"bo-ex",
+			"Obsession",
+			"yuri",
 			[
-				255,
-				255,
-				255
+				158,
+				114,
+				210
 			]
 		],
 		[
-			"ronald-mcdonald-slide",
-			"ron-ex",
+			"Reconciliation",
+			"monika-real",
 			[
-				255,
-				216,
-				0
+				140,
+				212,
+				101
 			]
 		]
 	],
@@ -45,5 +45,5 @@
 		"bf",
 		"gf"
 	],
-	"weekName": "o"
+	"weekName": "Yuri/Monika"
 }

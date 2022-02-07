@@ -1,7 +1,7 @@
 {
-	"storyName": "triple phonebreakers",
+	"storyName": "Three Bambi in 3D",
 	"hideFreeplay": false,
-	"weekBackground": "tripletrouble",
+	"weekBackground": "apple",
 	"freeplayColor": [
 		146,
 		113,
@@ -9,7 +9,6 @@
 	],
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
 	"weekCharacters": [
 		"",
 		"",
@@ -17,14 +16,15 @@
 	],
 	"songs": [
 		[
-			"Triple Trouble",
-			"bandu",
+			"applecore",
+			"biba&boba",
 			[
 				0,
-				40,
+				0,
 				0
 			]
 		]
 	],
+	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }
