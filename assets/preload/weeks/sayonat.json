@@ -53,6 +53,6 @@
 		17,
 	],
 	"hideStoryMode": false,
-	"weekBefore": "round2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }

@@ -1,58 +1,48 @@
-{
-	"storyName": "In the background",
-	"difficulties": "",
-	"hideFreeplay": false,
-	"weekBackground": "itb",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"weekBefore": "week7",
-	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
-			"groovy-brass",
-			"bluskys-ex",
+			"copy-cat",
+			"mcbo",
 			[
-				25,
-				85,
-				197
+				216,
+				215,
+				225
 			]
 		],
 		[
-			"conscience",
-			"minishoey-ex",
-			[
-				5,
-				199,
-				147
-			]
-		],
-		[
-			"yap-squad",
-			"jghost-ex",
-			[
-				167,
-				45,
-				42
-			]
-		],
-		[
-			"intertwined",
-			"ashncerb-ex",
+			"jump-out",
+			"bo-ex",
 			[
 				255,
 				255,
 				255
 			]
+		],
+		[
+			"ronald-mcdonald-slide",
+			"ron-ex",
+			[
+				255,
+				216,
+				0
+			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"bobex",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "meme",
+	"weekName": "o",
+	"freeplayColor": [
+		255,
+		216
+		0,
+	],
 	"hideStoryMode": false,
-	"weekName": "In the background"
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }

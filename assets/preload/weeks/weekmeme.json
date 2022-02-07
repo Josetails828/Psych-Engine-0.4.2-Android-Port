@@ -1,17 +1,4 @@
-{
-	"storyName": "meme",
-	"difficulties": "",
-	"hideFreeplay": false,
-	"weekBackground": "bobex",
-	"weekBefore": "tutorial",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"startUnlocked": true,
-	"hideStoryMode": false,
-	"songs": [
+"songs": [
 		[
 			"copy-cat",
 			"mcbo",
@@ -40,10 +27,22 @@
 			]
 		]
 	],
+	"hideFreeplay": false,
+	"weekBackground":"exe",
+	"difficulties": "Hard",
 	"weekCharacters": [
-		"dad",
+		"exe",
 		"bf",
 		"gf"
 	],
-	"weekName": "o"
+	"storyName": "meme",
+	"weekName": "mem",
+	"freeplayColor": [
+		255,
+		216,
+		0,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
 }
