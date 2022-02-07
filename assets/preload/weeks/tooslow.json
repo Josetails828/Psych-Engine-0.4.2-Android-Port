@@ -1,0 +1,30 @@
+	"songs": [
+		[
+			"Too Slow",
+			"sonicsg",
+			[
+				160,
+				209,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground":"ghz",
+	"difficulties": "",
+	"weekCharacters": [
+		"sonic",
+		"bf",
+		"gf"
+	],
+	"storyName": "To Slow",
+	"weekName": "To Slow",
+	"freeplayColor": [
+		160,
+		209,
+		255,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "sayonat",
+	"startUnlocked": true
+}

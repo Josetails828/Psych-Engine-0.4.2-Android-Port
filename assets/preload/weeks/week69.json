@@ -1,0 +1,30 @@
+	],
+	"songs": [
+		[
+			"Triple Trouble",
+			"bandu",
+			[
+				0,
+				40,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground":"tripletrouble",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "triple phonebreakers",
+	"weekName": "triple phonebreakers",
+	"freeplayColor": [
+		0,
+		40,
+		0,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true

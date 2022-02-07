@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"chaos",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		],
+		[
+			"crisis",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		],
+		[
+			"destruction",
+			"dave",
+			[
+				166,
+				17,
+				17
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground":"stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dave",
+		"bf",
+		"gf"
+	],
+	"storyName": "ohhhh ma gawwwd",
+	"weekName": "dave",
+	"freeplayColor": [
+		166,
+		17,
+		17,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "bonus",
+	"startUnlocked": true
+}

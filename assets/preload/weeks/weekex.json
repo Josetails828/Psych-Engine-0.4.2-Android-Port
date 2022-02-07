@@ -1,0 +1,48 @@
+	"songs": [
+		[
+			"copy-cat",
+			"mcbo",
+			[
+				216,
+				215,
+				225
+			]
+		],
+		[
+			"jump-out",
+			"bo-ex",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ronald-mcdonald-slide",
+			"ron-ex",
+			[
+				255,
+				216,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground":"bobex",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "meme",
+	"weekName": "o",
+	"freeplayColor": [
+		255,
+		216
+		0,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week69",
+	"startUnlocked": true
+}

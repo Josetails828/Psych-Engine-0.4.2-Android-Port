@@ -1,0 +1,40 @@
+	],
+	"songs": [
+		[
+			"prejudice-bf",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"prejudice-salty",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground":"stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your Week",
+	"weekName": "Your Week",
+	"freeplayColor": [
+		146,
+		113,
+		253,
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tooslow",
+	"startUnlocked": true
+}

@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"applecore",
+			"biba&boba",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"aflac",
+		"bf",
+		"gf"
+	],
+	"storyName": "Three Bambi in 3D",
+	"weekName": "custom week",
+	"freeplayColor": [
+		66,
+		135,
+		245
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
